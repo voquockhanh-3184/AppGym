@@ -110,12 +110,16 @@ android {
 dependencies {
     // The version of react-native is set by the React Native Gradle Plugin
     implementation("com.facebook.react:react-android")
-
+    implementation 'com.facebook.fresco:animated-gif:2.5.0'
+    
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")
     } else {
         implementation jscFlavor
     }
+
+    // 👇 Dùng bản 17 hoặc 18 để tránh lỗi Interface/Class
+    implementation "com.google.android.gms:play-services-location:17.0.0"
 }
 
-apply plugin: 'com.google.gms.google-services'
+// apply plugin: 'com.google.gms.google-services'
