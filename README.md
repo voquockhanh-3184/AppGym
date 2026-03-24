@@ -12,11 +12,18 @@
 ---
 
 ## ✨ Tính năng chính
-* **🏋️ Quản lý bài tập:** Thư viện bài tập phong phú, phân loại chi tiết theo nhóm cơ (Ngực, Lưng, Chân, Vai...).
-* **📅 Lịch trình tập luyện:** Tùy chỉnh lịch tập hàng tuần (Push/Pull/Legs, Upper/Lower Body).
-* **📈 Theo dõi chỉ số:** Ghi lại biến động cân nặng, tỷ lệ mỡ và tự động tính toán BMI.
-* **⏱️ Hẹn giờ nghỉ:** Tích hợp đồng hồ bấm giờ thông minh giữa các hiệp tập (Sets).
-* **📊 Báo cáo tiến độ:** Biểu đồ trực quan hóa quá trình tập luyện theo tháng.
+
+### 🏃 Quản lý Tập luyện & Sức khỏe
+* **🏋️ Thư viện bài tập:** Hướng dẫn chi tiết kỹ thuật cho các nhóm cơ (Ngực, Lưng, Chân, Vai...).
+* **📅 Lịch trình linh hoạt:** Tùy chỉnh lịch tập hàng tuần.
+* **📈 Chỉ số cơ thể:** Ghi chép biến động cân nặng và tự động tính toán chỉ số BMI.
+* **⏱️ Hẹn giờ thông minh:** Đồng hồ đếm ngược thời gian nghỉ giữa các hiệp (Sets) tự động.
+
+### 🎓 Hệ thống Khóa học & Đào tạo
+* **🛒 Cửa hàng khóa học:** Hệ thống hiển thị và bán các gói tập luyện chuyên sâu từ các huấn luyện viên (PT).
+* **💎 Quản lý khóa học:** Theo dõi danh sách các khóa học đã mua, bài học đã hoàn thành và tiến độ học tập.
+* **🛠 Tự tạo bài học:** Tính năng dành cho người dùng chuyên nghiệp tự thiết kế danh sách bài tập, thứ tự thực hiện riêng cho lộ trình cá nhân.
+* **📊 Báo cáo tiến độ:** Biểu đồ trực quan hóa quá trình tập luyện và hoàn thành khóa học.
 
 ---
 
