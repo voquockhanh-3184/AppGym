@@ -1,45 +1,38 @@
-# 🏋️‍♂️ AppGym - Ứng dụng Quản lý Tập luyện chuyên nghiệp
+# 🏋️‍♂️ AppGym - Fitness & Workout Assistant
 
-Chào mừng bạn đến với dự án **AppGym**! Đây là ứng dụng di động được xây dựng trên nền tảng [**React Native**](https://reactnative.dev), giúp người dùng theo dõi lịch tập, bài tập và tiến độ thay đổi cơ thể một cách hiệu quả.
+**AppGym** là ứng dụng di động mạnh mẽ được xây dựng trên nền tảng [**React Native**](https://reactnative.dev). Dự án tập trung vào việc giúp người dùng quản lý lịch tập, theo dõi bài tập và phân tích tiến độ thay đổi cơ thể một cách khoa học với giao diện hiện đại.
 
 ---
 
 ## 📋 Mục lục
-* [Tính năng chính](#-tính-năng-chính)
-* [Yêu cầu hệ thống](#-yêu-cầu-hệ-thống)
-* [Hướng dẫn cài đặt](#-hướng-dẫn-cài-đặt)
-* [Khởi chạy ứng dụng](#-khởi-chạy-ứng-dụng)
-* [Cấu trúc giao diện](#-cấu-trúc-giao-diện)
-* [Xử lý sự cố](#-xử-lý-sự-cố)
+* [✨ Tính năng chính](#-tính-năng-chính)
+* [💻 Yêu cầu hệ thống](#-yêu-cầu-hệ-thống)
+* [🛠 Hướng dẫn cài đặt](#-hướng-dẫn-cài-đặt)
 
 ---
 
 ## ✨ Tính năng chính
-* **Quản lý bài tập:** Thư viện bài tập Gym phong phú theo nhóm cơ.
-* **Lịch trình tập luyện:** Thiết lập lịch tập hàng tuần (Split, Full body, Push/Pull/Legs).
-* **Theo dõi chỉ số:** Ghi lại cân nặng, tỷ lệ mỡ và tính toán BMI.
-* **Hẹn giờ nghỉ:** Đồng hồ đếm ngược giữa các hiệp tập.
+* **🏋️ Quản lý bài tập:** Thư viện bài tập phong phú, phân loại chi tiết theo nhóm cơ (Ngực, Lưng, Chân, Vai...).
+* **📅 Lịch trình tập luyện:** Tùy chỉnh lịch tập hàng tuần (Push/Pull/Legs, Upper/Lower Body).
+* **📈 Theo dõi chỉ số:** Ghi lại biến động cân nặng, tỷ lệ mỡ và tự động tính toán BMI.
+* **⏱️ Hẹn giờ nghỉ:** Tích hợp đồng hồ bấm giờ thông minh giữa các hiệp tập (Sets).
+* **📊 Báo cáo tiến độ:** Biểu đồ trực quan hóa quá trình tập luyện theo tháng.
+
+---
 
 ## 💻 Yêu cầu hệ thống
-Trước khi cài đặt, hãy đảm bảo bạn đã cấu hình môi trường phát triển:
-* **Node.js** (Phiên bản LTS)
-* **JDK 17** (Cho Android)
-* **Android Studio** (Đã cài SDK & Emulator)
-* **Xcode** (Chỉ dành cho iOS trên macOS)
+Đảm bảo máy tính của bạn đã cấu hình đầy đủ môi trường phát triển React Native:
+* **Node.js:** Phiên bản LTS (v18 trở lên).
+* **JDK:** Java Development Kit 17 (Bắt buộc cho Android).
+* **Android Studio:** Đã cài đặt SDK, Build-Tools và Emulator.
+* **Xcode:** Phiên bản mới nhất (Nếu bạn chạy trên iOS/macOS).
 
 ---
 
 ## 🛠 Hướng dẫn cài đặt
 
-### 1. Tải mã nguồn
-
+### 1. Tải mã nguồn dự án
+Mở terminal và thực hiện lệnh clone:
+```bash
 git clone [https://github.com/username/AppGym.git](https://github.com/username/AppGym.git)
 cd AppGym
-
-### 2. Cài đặt các gói phụ thuộc
-Bash
-# Sử dụng npm
-npm install
-
-# Hoặc sử dụng Yarn
-yarn install
