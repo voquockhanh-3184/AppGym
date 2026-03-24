@@ -32,6 +32,14 @@ Trước khi cài đặt, hãy đảm bảo bạn đã cấu hình môi trườn
 ## 🛠 Hướng dẫn cài đặt
 
 ### 1. Tải mã nguồn
-```sh
+
 git clone [https://github.com/username/AppGym.git](https://github.com/username/AppGym.git)
 cd AppGym
+
+### 2. Cài đặt các gói phụ thuộc
+Bash
+# Sử dụng npm
+npm install
+
+# Hoặc sử dụng Yarn
+yarn install
