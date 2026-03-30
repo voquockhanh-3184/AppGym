@@ -63,15 +63,31 @@
 ## 💻 Yêu cầu hệ thống
 Trước khi cài đặt, hãy đảm bảo máy tính của bạn đã có:
 * **Node.js:** Phiên bản v18 trở lên.
-* **JDK:** Java Development Kit 17 (Bắt buộc để build Android).
+* **JDK:** Java Development Kit 17.
 * **Android Studio:** Đã cài đặt SDK, Build-Tools và cấu hình biến môi trường (`ANDROID_HOME`).
 
 ---
 
-## 🚀 Hướng dẫn cài đặt và khởi chạy chi tiết
+## 🚀 Hướng dẫn cài đặt và khởi chạy
 
-### Bước 1: Tải mã nguồn dự án
-Sử dụng Git để clone dự án về máy cục bộ:
+### Bước 1: Thiết lập và Cài đặt thư viện
 ```bash
 git clone [https://github.com/voquockhanh-3184/AppGym.git](https://github.com/voquockhanh-3184/AppGym.git)
 cd AppGym
+npm install
+```
+### Bước 2: Khởi chạy dự án (Yêu cầu 2 cửa sổ Terminal)
+
+Khởi động Metro Bundler (Cửa sổ 1):
+
+```bash
+npx react-native start
+```
+Biên dịch và chạy App (Cửa sổ 2):
+
+Bash
+# Đảm bảo đã mở Emulator hoặc kết nối thiết bị thật
+```bash
+npx react-native run-android
+```
+Liên hệ: voquockhanh31082004@gmail.com
