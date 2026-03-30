@@ -85,8 +85,7 @@ npx react-native start
 ```
 Biên dịch và chạy App (Cửa sổ 2):
 
-Bash
-# Đảm bảo đã mở Emulator hoặc kết nối thiết bị thật
+### Đảm bảo đã mở Emulator hoặc kết nối thiết bị thật
 ```bash
 npx react-native run-android
 ```
