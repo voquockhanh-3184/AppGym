@@ -1,15 +1,14 @@
-# AppGym - Fitness & Workout Assistant
+# 🏋️‍♂️ AppGym - Fitness & Workout Assistant
 
-**AppGym** là ứng dụng di động mạnh mẽ được xây dựng trên nền tảng **React Native**. [cite_start]Dự án tập trung vào việc giúp người dùng quản lý lịch tập, theo dõi bài tập và phân tích tiến độ thay đổi cơ thể một cách khoa học với giao diện hiện đại[cite: 20].
+**AppGym** là ứng dụng di động mạnh mẽ được xây dựng trên nền tảng **React Native**. Dự án tập trung vào việc giúp người dùng quản lý lịch tập, theo dõi bài tập và phân tích tiến độ thay đổi cơ thể một cách khoa học với giao diện hiện đại.
 
 ---
-
 
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center"><b>Trang chủ</b></td>
-      <td align="center"><b>Lớp học</b></td>
+      <td align="center"><b>🏠 Trang chủ</b></td>
+      <td align="center"><b>📚 Lớp học</b></td>
     </tr>
     <tr>
       <td>
@@ -20,8 +19,8 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>Báo cáo</b></td>
-      <td align="center"><b>Cài đặt</b></td>
+      <td align="center"><b>📈 Báo cáo</b></td>
+      <td align="center"><b>⚙️ Cài đặt</b></td>
     </tr>
     <tr>
       <td>
@@ -34,43 +33,45 @@
   </table>
 </p>
 
-
 ---
 
 ## ✨ Tính năng chính
 
 ### 🏃 Quản lý Tập luyện & Sức khỏe
-* **Thư viện bài tập:** Hướng dẫn chi tiết kỹ thuật cho các nhóm cơ (Ngực, Lưng, Chân, Vai...)[cite: 23].
+* **Thư viện bài tập:** Hướng dẫn chi tiết kỹ thuật cho các nhóm cơ (Ngực, Lưng, Chân, Vai...).
 * **Lịch trình linh hoạt:** Tùy chỉnh và sắp xếp lịch tập cá nhân hàng tuần.
+* **Lịch học theo khóa học:** Tự động hiển thị và đồng bộ lịch học dựa trên các khóa học đã đăng ký.
 * **Chỉ số cơ thể:** Ghi chép biến động cân nặng và tự động tính toán chỉ số BMI.
 * **Hẹn giờ thông minh:** Đồng hồ đếm ngược thời gian nghỉ giữa các hiệp (Sets) tự động.
 
 ### 🎓 Hệ thống Khóa học & Đào tạo
-* [cite_start]**Cửa hàng khóa học:** Hệ thống hiển thị và đăng ký các gói tập luyện chuyên sâu từ PT[cite: 25].
+* **Cửa hàng khóa học:** Hệ thống hiển thị và đăng ký các gói tập luyện chuyên sâu từ PT.
 * **Quản lý lộ trình:** Theo dõi danh sách bài học đã hoàn thành và tiến độ học tập.
-* [cite_start]**Phân quyền hệ thống:** Thiết kế logic phân quyền truy cập riêng biệt giữa Người dùng (User) và Huấn luyện viên (PT)[cite: 26].
-* [cite_start]**Báo cáo tiến độ:** Biểu đồ trực quan hóa quá trình tập luyện theo thời gian thực[cite: 26].
+* **Phân quyền hệ thống:** Thiết kế logic phân quyền truy cập riêng biệt giữa Người dùng (User) và Huấn luyện viên (PT).
+* **Báo cáo tiến độ:** Biểu đồ trực quan hóa quá trình tập luyện theo thời gian thực.
 
 ---
 
 ## 🛠 Công nghệ sử dụng
-* [cite_start]**Framework:** React Native[cite: 20].
-* **Ngôn ngữ:** JavaScript.
-* [cite_start]**Database:** SQLite (Lưu trữ dữ liệu cục bộ cho hiệu suất cao)[cite: 20, 24].
-* [cite_start]**Library:** React Navigation (Quản lý luồng ứng dụng)[cite: 20].
+* **Framework:** React Native
+* **Ngôn ngữ:** JavaScript
+* **Database:** SQLite (Lưu trữ dữ liệu cục bộ cho hiệu suất cao)
+* **Library:** React Navigation (Quản lý luồng ứng dụng)
 
 ---
 
 ## 💻 Yêu cầu hệ thống
+Trước khi cài đặt, hãy đảm bảo máy tính của bạn đã có:
 * **Node.js:** Phiên bản v18 trở lên.
-* **JDK:** Java Development Kit 17 (Bắt buộc cho Android).
-* **Android Studio:** Đã cấu hình SDK và Emulator.
+* **JDK:** Java Development Kit 17 (Bắt buộc để build Android).
+* **Android Studio:** Đã cài đặt SDK, Build-Tools và cấu hình biến môi trường (`ANDROID_HOME`).
 
 ---
 
-## 🚀 Hướng dẫn cài đặt và khởi chạy
+## 🚀 Hướng dẫn cài đặt và khởi chạy chi tiết
 
-### 1. Tải mã nguồn
+### Bước 1: Tải mã nguồn dự án
+Sử dụng Git để clone dự án về máy cục bộ:
 ```bash
 git clone [https://github.com/voquockhanh-3184/AppGym.git](https://github.com/voquockhanh-3184/AppGym.git)
 cd AppGym
