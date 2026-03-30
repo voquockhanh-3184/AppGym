@@ -1,29 +1,40 @@
-# 🏋️‍♂️ AppGym - Fitness & Workout Assistant
+# AppGym - Fitness & Workout Assistant
 
 **AppGym** là ứng dụng di động mạnh mẽ được xây dựng trên nền tảng **React Native**. [cite_start]Dự án tập trung vào việc giúp người dùng quản lý lịch tập, theo dõi bài tập và phân tích tiến độ thay đổi cơ thể một cách khoa học với giao diện hiện đại[cite: 20].
 
 ---
 
-## 📽️ Demo Sản phẩm
 
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center"><b>Giao diện chính</b></td>
-      <td align="center"><b>Quản lý tập luyện</b></td>
+      <td align="center"><b>🏠 Giao diện chính</b></td>
+      <td align="center"><b>🏋️ Quản lý tập luyện</b></td>
     </tr>
     <tr>
       <td>
         <img src="https://github.com/user-attachments/assets/8b0470d6-f51d-47aa-a156-bf2ef75e87ac" width="250" alt="Home Screen">
       </td>
       <td>
-        <img src="https://via.placeholder.com/250x500?text=Workout+Detail+Demo" width="250" alt="Workout Detail">
+        <img src="https://github.com/user-attachments/assets/0291b968-2e0f-4b64-9fd1-846e7fca1fa8" width="250" alt="Workout Detail">
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>📊 Chỉ số cơ thể</b></td>
+      <td align="center"><b>👤 Hồ sơ người dùng</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/c6953e47-28fe-448c-a75e-35c3ce98e6f7" width="250" alt="Body Metrics">
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/80395830-e62d-4963-b252-d9ec7f614a6d" width="250" alt="Profile Screen">
       </td>
     </tr>
   </table>
 </p>
 
-> **Mẹo:** Để chèn video thực tế, bạn hãy kéo thả trực tiếp file `.mp4` vào trang chỉnh sửa README này, GitHub sẽ tự động tạo trình phát video cho bạn.
+> **Mẹo:** Bạn có thể kéo thả trực tiếp file `.mp4` vào đây để hiển thị video quay màn hình thực tế.
 
 ---
 
