@@ -6,9 +6,10 @@
 
 ## 📽️ Demo Sản phẩm
 
+
 | Giao diện chính | Quản lý tập luyện |
 | :---: | :---: |
-| ![Home Screen](https://via.placeholder.com/250x500?text=App+Screenshot+1) | ![Workout Detail](https://via.placeholder.com/250x500?text=App+Screenshot+2) |
+| ![Home Screen]![Screenshot_20260330_184716_Gallery](https://github.com/user-attachments/assets/8b0470d6-f51d-47aa-a156-bf2ef75e87ac) | ![Workout Detail](https://via.placeholder.com/250x500?text=App+Screenshot+2) |
 
 > **Mẹo:** Để chèn video, bạn hãy kéo thả trực tiếp file `.mp4` vào trang chỉnh sửa README trên GitHub, nó sẽ tự sinh mã hiển thị video cho bạn.
 
