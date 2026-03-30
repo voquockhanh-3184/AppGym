@@ -8,8 +8,8 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center"><b>🏠 Giao diện chính</b></td>
-      <td align="center"><b>🏋️ Quản lý tập luyện</b></td>
+      <td align="center"><b>Trang chủ</b></td>
+      <td align="center"><b>Lớp học</b></td>
     </tr>
     <tr>
       <td>
@@ -20,8 +20,8 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><b>📊 Chỉ số cơ thể</b></td>
-      <td align="center"><b>👤 Hồ sơ người dùng</b></td>
+      <td align="center"><b>Báo cáo</b></td>
+      <td align="center"><b>Cài đặt</b></td>
     </tr>
     <tr>
       <td>
@@ -34,7 +34,6 @@
   </table>
 </p>
 
-> **Mẹo:** Bạn có thể kéo thả trực tiếp file `.mp4` vào đây để hiển thị video quay màn hình thực tế.
 
 ---
 
