@@ -40,7 +40,7 @@
 ## ✨ Tính năng chính
 
 ### 🏃 Quản lý Tập luyện & Sức khỏe
-* [cite_start]**Thư viện bài tập:** Hướng dẫn chi tiết kỹ thuật cho các nhóm cơ (Ngực, Lưng, Chân, Vai...)[cite: 23].
+* **Thư viện bài tập:** Hướng dẫn chi tiết kỹ thuật cho các nhóm cơ (Ngực, Lưng, Chân, Vai...)[cite: 23].
 * **Lịch trình linh hoạt:** Tùy chỉnh và sắp xếp lịch tập cá nhân hàng tuần.
 * **Chỉ số cơ thể:** Ghi chép biến động cân nặng và tự động tính toán chỉ số BMI.
 * **Hẹn giờ thông minh:** Đồng hồ đếm ngược thời gian nghỉ giữa các hiệp (Sets) tự động.
