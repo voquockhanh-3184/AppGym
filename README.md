@@ -6,12 +6,24 @@
 
 ## 📽️ Demo Sản phẩm
 
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center"><b>Giao diện chính</b></td>
+      <td align="center"><b>Quản lý tập luyện</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/8b0470d6-f51d-47aa-a156-bf2ef75e87ac" width="250" alt="Home Screen">
+      </td>
+      <td>
+        <img src="https://via.placeholder.com/250x500?text=Workout+Detail+Demo" width="250" alt="Workout Detail">
+      </td>
+    </tr>
+  </table>
+</p>
 
-| Giao diện chính | Quản lý tập luyện |
-| :---: | :---: |
-| ![Home Screen]![Screenshot_20260330_184716_Gallery](https://github.com/user-attachments/assets/8b0470d6-f51d-47aa-a156-bf2ef75e87ac) | ![Workout Detail](https://via.placeholder.com/250x500?text=App+Screenshot+2) |
-
-> **Mẹo:** Để chèn video, bạn hãy kéo thả trực tiếp file `.mp4` vào trang chỉnh sửa README trên GitHub, nó sẽ tự sinh mã hiển thị video cho bạn.
+> **Mẹo:** Để chèn video thực tế, bạn hãy kéo thả trực tiếp file `.mp4` vào trang chỉnh sửa README này, GitHub sẽ tự động tạo trình phát video cho bạn.
 
 ---
 
